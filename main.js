@@ -1,5 +1,9 @@
 "use strict";
 import Village from "./class.village.js";
+import Building from "./class.building.js";
+import Citizen from "./class.citizen.js";
+import NobleCitizen from "./class.nobleCitizen.js";
+import NobleBuilding from "./class.nobleBuilding.js";
 
 /*******************************************************
  *    The Village People - 100p
